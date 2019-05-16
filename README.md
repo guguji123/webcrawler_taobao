@@ -16,3 +16,8 @@ Instructions:
 Write the keyword of item which your want to search.  
 Write your chromedriver path at main()  
 Write your weibo ID and password at main()  
+
+![image](https://github.com/guguji123/webcrawler_taobao/blob/master/images/console.png)  
+
+
+![image](https://github.com/guguji123/webcrawler_taobao/blob/master/images/MongoDB.png)
