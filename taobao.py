@@ -142,8 +142,8 @@ if __name__ == '__main__':
     mongo = MyMongoDB()
     KEYWORD = 'huawei'
     chromedriver_path = 'write your  absolute path of chromedriver'
-    weibo_username = 'Write your chromedriver'
-    weibo_password = 'Write your weibo ID and password'
+    weibo_username = 'Write your weibo ID'
+    weibo_password = 'Write your password'
     taobao = Taobao()
     taobao.login()
     for i in range(1, 11):
